@@ -1,4 +1,6 @@
 class UsersController < ApplicationController
+  def initialize
+  end  
   # GET /users
   # GET /users.xml
   def index
